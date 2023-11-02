@@ -1,0 +1,2 @@
+# LearnGit
+something about git
